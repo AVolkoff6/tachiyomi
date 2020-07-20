@@ -62,9 +62,7 @@ Catalogue requests should be created at https://github.com/inorichi/tachiyomi-ex
 </details>
 
 ## FAQ
-
-[See our website.](https://tachiyomi.org/)
-You can also reach out to us on [Discord](https://discord.gg/tachiyomi).
+*Why would there be any questions? This is just a personal fork.
 
 ## License
 
